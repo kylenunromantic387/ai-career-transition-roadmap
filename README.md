@@ -66,9 +66,14 @@ The transition path is split into five layers.
 | `modules/04_role_based_bridge_paths.md` | Bridge plans for software, data, product, QA, ops, and non-tech backgrounds |
 | `modules/05_projects_portfolio_and_job_strategy.md` | How to build proof of work that helps you switch roles |
 | `modules/06_from_any_role_to_ai.md` | A role-to-AI bridge matrix for technical and non-technical transitions |
+| `modules/07_resume_portfolio_and_interview_bridge.md` | How to reposition your experience for resumes, portfolios, and interviews |
+| `modules/08_topic_map_by_target_role.md` | Which topics to learn deeply vs at working depth by target role |
 | `templates/90-day-transition-plan.md` | A reusable 90-day learning and execution plan |
 | `templates/180-day-transition-plan.md` | A deeper plan for realistic career transitions |
+| `templates/role-gap-assessment.md` | A worksheet for identifying your real transition gaps |
+| `templates/project-case-study-template.md` | A template for strong portfolio and interview-ready project writeups |
 | `checklists/ai-switch-readiness-checklist.md` | How to know if you are actually ready to apply |
+| `checklists/first-ai-project-checklist.md` | A release gate for making your first AI project portfolio-worthy |
 | `references/research-backed-learning-resources.md` | Curated external resources and why they matter |
 
 ## What To Learn First
