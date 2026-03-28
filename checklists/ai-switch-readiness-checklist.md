@@ -21,12 +21,20 @@ You are closer to being ready when most of these are true.
 - I understand the basics of deployment, monitoring, or operational trade-offs.
 - I can talk about hallucinations, grounding, or model limitations.
 - I can explain cost, latency, privacy, or safety concerns at a practical level.
+- I can describe how I would evaluate trustworthiness, not only raw output quality.
 
 ## Career Positioning
 
 - My GitHub or portfolio shows real AI work, not only course notes.
 - My resume reflects AI-relevant outcomes.
 - I can tell a coherent story about why I am moving into AI and what I already bring from my current background.
+- I can explain which target role I want and why my portfolio matches it.
+
+## Market Readiness
+
+- I understand which parts of my skill stack are durable versus hype-driven.
+- I have chosen a domain, workflow, or niche where I can build believable proof.
+- I am tracking real hiring or buyer signals instead of relying only on social media trends.
 
 ## Decision Rule
 

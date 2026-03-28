@@ -62,6 +62,61 @@ Good for:
 
 - non-technical or partially technical professionals entering the AI space
 
+## DeepLearning.AI Short Courses And Applied Tracks
+
+Why it matters:
+
+1. exposes learners to current applied areas such as RAG, agentic systems, and modern AI workflows
+2. useful for staying current without rebuilding your entire study plan from scratch
+3. often reflects where the practical market is moving right now
+
+Good for:
+
+- builders who already have foundations and want focused updates on new patterns
+
+## Product-Oriented AI Programs
+
+Why it matters:
+
+1. product-focused programs increasingly emphasize problem framing, metrics, model limits, and bias awareness
+2. useful for people moving from product, strategy, or operations into AI roles
+3. reinforces that AI careers are not only for model builders; they also require decision quality and business judgment
+
+Good for:
+
+- AI product managers, operators, founders, and cross-functional builders
+
+## AI News And Market Awareness Sources
+
+Why it matters:
+
+1. a serious transition requires tracking where the field is actually moving
+2. helps separate durable skill development from hype chasing
+3. supports better project selection, role targeting, and founder-style thinking
+
+Useful sources often include:
+
+1. practical AI newsletters
+2. engineering blogs from leading AI platforms
+3. job descriptions for target roles
+4. public release notes from model and tooling providers
+
+Good for:
+
+- anyone trying to stay current without being distracted by every trend cycle
+
+## Community And Open Source Building Resources
+
+Why it matters:
+
+1. strong AI careers increasingly benefit from visible contribution, public writing, and community participation
+2. open-source community practices improve documentation quality, contributor onboarding, and long-term project trust
+3. public discussion spaces help turn repositories into living ecosystems instead of static notes
+
+Good for:
+
+- maintainers, creators, and builders who want to grow a community around their work
+
 ## roadmap.sh AI Engineer Roadmap
 
 Why it matters:
@@ -84,3 +139,5 @@ Recommended path:
 4. Move into product and systems thinking with Full Stack Deep Learning.
 5. Add modern LLM and agent skills through Hugging Face and applied project work.
 6. Use roadmap.sh as a breadth checklist, not as your only curriculum.
+7. Use short applied courses and market-awareness sources to stay current after your foundations are in place.
+8. Use community-building resources if you want your projects to become public proof, collaboration magnets, or creator assets.

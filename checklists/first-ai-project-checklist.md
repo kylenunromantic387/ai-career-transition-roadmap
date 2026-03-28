@@ -21,12 +21,20 @@ Use this checklist before calling your first project portfolio-ready.
 - The evaluation method is explained.
 - Failure cases are acknowledged.
 - Limitations are written honestly.
+- There is at least a simple rubric, test set, or repeatable quality check.
+
+## Trust Quality
+
+- The project explains when the system should not be trusted blindly.
+- Privacy, safety, or user-risk concerns are acknowledged if relevant.
+- A fallback or human review path is defined for important tasks.
 
 ## Portfolio Quality
 
 - The project shows a useful skill for a target AI role.
 - The GitHub repo is understandable to another person.
 - The story is stronger than “I followed a tutorial.”
+- The project reflects a real workflow, domain pain point, or market need.
 
 ## Interview Quality
 
